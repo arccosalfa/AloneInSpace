@@ -5,7 +5,7 @@ Kontroller:
 
 🕹️ Hareket: W/A/S/D veya Yön Tuşları
 
-🔫 Ateş: Space
+🔫 Ateş: Left Mouse
 
 ⏹️ Duraklatma: P
 
